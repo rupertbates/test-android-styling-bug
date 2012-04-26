@@ -1,0 +1,7 @@
+<resources>
+    <style name="myStyle">
+        <item name="android:layout_height">30dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:background">@color/blue</item>
+    </style>
+</resources>
